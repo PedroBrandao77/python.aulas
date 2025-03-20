@@ -56,3 +56,16 @@ if compra>1000:
     print(f"desconto R$ {d1}")
 else:
     print(f"valor R$ {d2}")'''
+
+
+'''#exercicio 7
+
+salario = float(input("Digite o salario: "))
+vendas = float(input("Digite as vendas do mes: "))
+if vendas>100000:
+    bonus = 2*salario
+else:
+    bonus = 1.5*salario
+    print(f"Bonus de R$ {bonus:2f}")'''
+
+
